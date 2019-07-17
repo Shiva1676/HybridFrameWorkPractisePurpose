@@ -47,6 +47,8 @@ public class TestCase1 extends BaseClass {
 
 	@Test
 	public void verifyLogin() {
+		
+		// This is for login page
 
 		LoginPage login = PageFactory.initElements(driver, LoginPage.class);
 
