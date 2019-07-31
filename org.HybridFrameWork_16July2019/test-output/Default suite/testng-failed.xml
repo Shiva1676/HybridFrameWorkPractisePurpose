@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="demo.SwitchingTabs">
+      <class name="ankroTraining.ActionsClass_KeysConcepts">
         <methods>
-          <include name="verifySwitching"/>
+          <include name="test"/>
         </methods>
-      </class> <!-- demo.SwitchingTabs -->
+      </class> <!-- ankroTraining.ActionsClass_KeysConcepts -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
